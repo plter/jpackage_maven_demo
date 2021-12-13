@@ -101,6 +101,10 @@
                             </dependencysets>
                         </modulepath>
                         <module>com.topyunp.javafxapp/com.topyunp.javafxapp.HelloApplication</module>
+                        <windirchooser>true</windirchooser>
+                        <winmenu>true</winmenu>
+                        <winperuserinstall>true</winperuserinstall>
+                        <winshortcut>true</winshortcut>
                     </configuration>
                 </plugin>
             </plugins>
